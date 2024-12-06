@@ -169,7 +169,7 @@ const Home = () => {
       });
 
       if (response.ok) {
-        toast.success("Video uploaded successfully!");
+        toast.success("Video uploaded successfully!!");
 
       } else {
         toast.error("Failed to upload video");
